@@ -38,9 +38,14 @@ namespace assigmentt_03_c__basics
             //Console.WriteLine(book.GetType());
 
             //Look at the line below.Is it a compile - time error, a runtime error, or a logical error? Fix it int pages = "464";
-//            int pages = "464";
-//            This is a compile - time error.
-//Because "464" is a string, while pages is declared as an int.
+            //            int pages = "464";
+            //            This is a compile - time error.
+            //Because "464" is a string, while pages is declared as an int.
+
+            //Look at the line below.Is it a compile - time error, a runtime error, or a logical error? Fix it int pages = "464";
+            //            int pages = "464";
+            //            This is a compile - time error.
+            //Because "464" is a string, while pages is declared as an int.
 
         }
     }
