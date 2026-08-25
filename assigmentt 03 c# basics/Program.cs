@@ -104,6 +104,15 @@ namespace assigmentt_03_c__basics
 
             //Console.WriteLine(pagesText);
             //Console.WriteLine(pagesText.GetType());
+
+            //10. Declare int copies = 100;. Box it into an object variable, then unbox it back into a new int variable, and print both.
+            //int copies = 100;
+
+            //object boxedCopies = copies;       // Boxing
+            //int unboxedCopies = (int)boxedCopies; // Unboxing
+
+            //Console.WriteLine(copies);
+            //Console.WriteLine(unboxedCopies);
         }
     }
 }
