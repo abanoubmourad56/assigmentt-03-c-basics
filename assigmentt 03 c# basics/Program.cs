@@ -192,6 +192,12 @@ namespace assigmentt_03_c__basics
             //    count++;
             //}
             //while (count < 3);
+
+            //17. Using the same books array, use a foreach loop to print every book title.
+            //foreach (string book in books)
+            //{
+            //    Console.WriteLine(book);
+            //}
         }
 
     }
