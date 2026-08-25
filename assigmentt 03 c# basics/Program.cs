@@ -198,6 +198,17 @@ namespace assigmentt_03_c__basics
             //{
             //    Console.WriteLine(book);
             //}
+
+            //18.Using the same books array, loop through it and print each title, but stop completely (break) once you reach "Refactoring
+            //foreach (string book in books)
+            //{
+            //    if (book == "Refactoring")
+            //    {
+            //        break;
+            //    }
+
+            //    Console.WriteLine(book);
+            //}
         }
 
     }
