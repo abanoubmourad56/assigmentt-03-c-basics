@@ -61,6 +61,9 @@ namespace assigmentt_03_c__basics
             //    Console.WriteLine("Done");
             //}
 
+            //5. Declare an int pages = 300; then store it in a double variable without using a cast.
+            //int pages = 300;
+            //double value = pages;
         }
     }
 }
