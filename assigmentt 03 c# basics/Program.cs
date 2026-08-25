@@ -161,17 +161,27 @@ namespace assigmentt_03_c__basics
             //Console.WriteLine(sizeLabel);
 
             //14.  Given string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };, use a for loop to print each book with its position number, like 1.Clean Code.
-//            string[] books =
-//{
-//    "Clean Code",
-//    "The Pragmatic Programmer",
-//    "Refactoring"
-//};
+            //            string[] books =
+            //{
+            //    "Clean Code",
+            //    "The Pragmatic Programmer",
+            //    "Refactoring"
+            //};
 
-//            for (int i = 0; i < books.Length; i++)
-//            {
-//                Console.WriteLine($"{i + 1}. {books[i]}");
-//            }
+            //            for (int i = 0; i < books.Length; i++)
+            //            {
+            //                Console.WriteLine($"{i + 1}. {books[i]}");
+            //            }
+
+            //15. Using the same books array, use a while loop to print every book title.
+            //int count = 0;
+
+            //do
+            //{
+            //    Console.WriteLine("Checking book ... ");
+            //    count++;
+            //}
+            //while (count < 3);
 
         }
 
