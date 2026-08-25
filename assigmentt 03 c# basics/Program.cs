@@ -96,6 +96,14 @@ namespace assigmentt_03_c__basics
             //{
             //    Console.WriteLine("Invalid number");
             //}
+
+            //9. Given int pages = 464;, convert it into a string using ToString() and print its type using GetType() to prove it's now a string.
+            //int pages = 464;
+
+            //string pagesText = pages.ToString();
+
+            //Console.WriteLine(pagesText);
+            //Console.WriteLine(pagesText.GetType());
         }
     }
 }
